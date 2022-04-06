@@ -1,0 +1,81 @@
+body{
+    background-color: #FF0066;
+    font-family: 'Times New Roman', Times, serif;
+}
+.signup-form{
+    width: 350px;
+    height: 450px;
+    margin: 9% 38%;
+    background-color: #FF00E5;
+    border-radius: 5px;
+}
+h1{
+    text-align: center;
+    padding-top: 20px;
+}
+form{
+    width: 300px;
+    margin-left: 50px;
+}
+form label{
+    display: flex;
+    margin-top: 20px;
+    font-size: 18px;
+}
+.field{
+    width: 80%;
+    padding: 7px;
+    border: none;
+    border: 1px dotted #FF00E5;
+    border-radius: 5px;
+    margin-bottom:5% ;
+}
+#form{
+    padding-top: 10%;
+}
+.text{
+    text-align: center;
+}
+.btn{
+    text-align: center;
+    margin-left: 30%;
+    padding: 2% 20% 2% 20%;
+    margin: 2%;
+    border: 1px dotted #FF00E5;
+    font-size: larger;
+    border-radius: 5%;
+    background-color: #ac049b;
+    color: rgb(238, 228, 228);
+}
+.checbox{
+    margin: 2%;
+}
+#terms{
+    color: #0d0ba1;
+}
+#login{
+    text-align: center;
+    padding-top: 5%;
+}
+.login-box{
+    background-color: #FF00E5;
+    width: 350px;
+    height: 280px;
+    border-radius: 5px;
+    margin: 15% 38%;
+}
+
+#btn{
+    text-align: center;
+    padding: 2% 20% 2% 20%;
+    margin: 2%;
+    margin-left: 15%;</form>
+    border: 1px dotted #FF00E5;
+    font-size: larger;
+    border-radius: 5%;
+    background-color: #ac049b;
+    color: rgb(238, 228, 228);
+}
+#sign-up{
+    text-align: center;
+}
